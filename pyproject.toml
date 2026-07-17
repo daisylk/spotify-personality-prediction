@@ -1,0 +1,7 @@
+[project]
+name = "spotify-personality-prediction"
+version = "0.1.0"
+description = "Multitask deep learning models for predicting psychological, demographic, and lifestyle characteristics from Spotify data."
+readme = "README.md"
+requires-python = ">= 3.13.0"
+dependencies = []
